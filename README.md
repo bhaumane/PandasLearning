@@ -28,3 +28,11 @@ if __name__ == "__main__":
 If you run this file directly, it will print both messages. If you import it into another file, only my_function will be available for use, and nothing will be printed automatically.
 
 ---
+
+## pip freeze > requirements.txt
+
+The **pip freeze > requirements.txt** is a command used in the context of Python programming to generate a file called requirements.txt. This file contains a list of all the installed packages in your Python environment, along with their corresponding versions.
+
+The generated requirements.txt file is often used to share and manage dependencies in a Python project. When collaborating with others, it helps ensure that everyone is using the same package versions, which can prevent compatibility issues. To install the packages listed in a requirements.txt file, you can run the command **pip install -r requirements.txt**
+
+---
