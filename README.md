@@ -58,9 +58,11 @@ s = pd.Series(data)
 print(s)
 ```
 **output**:
+```bash
 a    10
 b    20
 c    30
+```
 
 ### Pandas DataFrame (2D Data)
 A DataFrame is like a table (rows + columns).
@@ -84,7 +86,9 @@ df = pd.DataFrame(data)
 print(df)
 ```
 **output**:
+```bash
       Name  Age
 0    Alice   25
 1      Bob   30
 2  Charlie   35
+```
