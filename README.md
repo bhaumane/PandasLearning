@@ -39,7 +39,7 @@ The generated requirements.txt file is often used to share and manage dependenci
 
 ## Series in Pandas
 
-# Pandas Series (1D Data)
+### Pandas Series (1D Data)
 A Series is like a single column of data.
 
 Think of it like:
@@ -62,7 +62,7 @@ a    10
 b    20
 c    30
 
-# Pandas DataFrame (2D Data)
+### Pandas DataFrame (2D Data)
 A DataFrame is like a table (rows + columns).
 
 Think of it like:
