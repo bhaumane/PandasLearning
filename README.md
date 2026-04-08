@@ -36,3 +36,55 @@ The **pip freeze > requirements.txt** is a command used in the context of Python
 The generated requirements.txt file is often used to share and manage dependencies in a Python project. When collaborating with others, it helps ensure that everyone is using the same package versions, which can prevent compatibility issues. To install the packages listed in a requirements.txt file, you can run the command **pip install -r requirements.txt**
 
 ---
+
+## Series in Pandas
+
+# Pandas Series (1D Data)
+A Series is like a single column of data.
+
+Think of it like:
+- A list with labels (index)
+- One-dimensional (only one column)
+
+**Example**:
+
+```bash
+import pandas as pd
+
+data = [10, 20, 30, 40]
+
+s = pd.Series(data)
+
+print(s)
+```
+**output**:
+a    10
+b    20
+c    30
+
+# Pandas DataFrame (2D Data)
+A DataFrame is like a table (rows + columns).
+
+Think of it like:
+- Excel sheet
+- Multiple columns (each column is a Series)
+
+**Example**:
+
+```bash
+import pandas as pd
+
+data = {
+    'Name': ['Alice', 'Bob', 'Charlie'],
+    'Age': [25, 30, 35]
+}
+
+df = pd.DataFrame(data)
+
+print(df)
+```
+**output**:
+      Name  Age
+0    Alice   25
+1      Bob   30
+2  Charlie   35
