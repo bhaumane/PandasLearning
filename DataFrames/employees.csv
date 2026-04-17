@@ -1,0 +1,101 @@
+First Name,Gender,Start Date,Last Login Time,Salary,Bonus %,Senior Management,Team
+Nicole,Male,04/17/2023,23:56 PM,156863,14.345,True,Business Development
+Betty,Male,07/31/2020,18:25 PM,79808,6.139,True,Business Development
+Charles,Female,12/15/2010,14:42 PM,48881,3.753,False,Client Services
+Jeffrey,Female,09/22/2020,17:22 AM,143488,15.058,True,Business Development
+Mark,Other,02/16/2019,10:06 AM,110031,16.5,True,Finance
+Amy,Female,04/16/2018,08:19 PM,141303,18.968,True,Product
+Ruth,Other,02/03/2011,18:53 PM,51133,19.469,False,Client Services
+Justin,Other,11/15/2017,02:12 PM,98469,5.746,True,Human Resources
+Helen,Other,07/13/2015,15:05 PM,92244,17.217,True,Human Resources
+Rebecca,Male,03/09/2015,18:59 AM,147079,7.342,False,Distribution
+Ashley,Female,08/16/2014,00:03 AM,146070,9.398,False,Business Development
+Charles,Female,01/10/2023,18:57 PM,143065,6.46,False,Human Resources
+Samuel,Female,10/25/2021,00:20 PM,105582,14.457,True,Sales
+Kathleen,Other,12/20/2021,01:04 AM,54083,15.951,True,Marketing
+Mark,Male,10/31/2020,03:56 AM,89761,14.393,True,Engineering
+Barbara,Other,05/24/2020,14:39 AM,95836,17.969,True,Marketing
+Melissa,Other,08/30/2012,02:02 PM,49789,19.215,True,Business Development
+Brian,Other,05/13/2011,09:34 AM,72465,9.388,False,Human Resources
+Jessica,Male,12/10/2022,06:51 AM,155449,17.318,True,Engineering
+Carol,Male,10/24/2013,08:33 AM,129017,7.538,True,Business Development
+Ryan,Male,08/31/2012,10:27 PM,88773,17.596,True,Distribution
+Thomas,Female,10/20/2022,13:41 AM,124911,16.42,False,Finance
+Jessica,Female,07/04/2012,19:52 AM,112430,7.021,True,Business Development
+Anthony,Other,11/28/2013,04:20 PM,91356,7.757,True,Client Services
+Patrick,Female,04/13/2010,02:15 PM,152196,13.24,False,Sales
+Shirley,Other,01/21/2021,17:17 AM,124937,1.09,False,Sales
+Kevin,Other,03/05/2017,18:45 AM,53398,12.458,True,Distribution
+Melissa,Male,11/09/2022,10:27 AM,110295,12.712,False,Client Services
+Paul,Male,12/04/2012,11:55 AM,74830,9.883,True,Client Services
+Patrick,Female,03/04/2020,18:20 PM,74556,12.856,False,Business Development
+Betty,Male,06/24/2016,12:04 AM,61530,1.827,True,Client Services
+Linda,Female,08/09/2014,12:33 AM,158030,1.618,False,Finance
+Michael,Male,02/11/2022,20:41 PM,81865,13.201,False,Human Resources
+Debra,Male,05/15/2012,08:20 PM,62059,8.351,True,Legal
+Maria,Other,10/14/2010,23:25 PM,119196,17.032,True,Business Development
+Emma,Female,02/02/2010,08:58 PM,118187,7.956,False,Business Development
+Margaret,Female,03/03/2010,03:11 PM,68111,6.799,False,Client Services
+Brenda,Other,01/20/2021,22:18 AM,37610,5.326,True,Client Services
+Andrew,Other,11/06/2016,16:08 PM,156224,7.101,True,Finance
+Christine,Male,05/28/2010,00:26 PM,56875,8.738,True,Distribution
+Charles,Male,10/26/2016,22:12 AM,105712,2.298,False,Finance
+Eric,Male,04/07/2017,23:12 PM,72948,14.906,True,Distribution
+Edward,Female,05/31/2013,08:06 AM,108223,3.705,False,Finance
+Daniel,Male,08/11/2018,06:48 PM,51368,1.543,False,Human Resources
+Eric,Female,01/08/2013,21:16 PM,68614,4.21,False,Business Development
+Eric,Female,12/22/2018,08:45 AM,133452,7.52,True,Human Resources
+Janet,Other,06/22/2013,04:09 AM,158221,5.463,True,Engineering
+Donna,Male,01/22/2018,10:13 AM,59464,11.473,True,Sales
+Karen,Other,07/15/2012,13:17 AM,60327,19.702,False,Human Resources
+Elizabeth,Female,11/05/2018,15:13 AM,102010,4.33,True,Sales
+Christine,Other,03/22/2016,15:28 AM,81181,17.458,False,Engineering
+Kevin,Male,08/09/2014,04:26 PM,141966,9.447,True,Product
+Margaret,Male,02/11/2023,04:08 AM,129933,18.872,True,Finance
+Jacob,Male,10/26/2017,13:59 PM,149068,5.502,False,Product
+Timothy,Other,05/04/2014,22:27 AM,143181,16.709,True,Business Development
+Jennifer,Female,10/20/2017,07:04 PM,98489,16.004,True,Finance
+Helen,Female,09/23/2015,07:02 AM,88576,19.167,True,Business Development
+Frank,Female,01/03/2011,11:50 PM,141329,13.346,False,Marketing
+James,Female,08/23/2018,20:40 AM,119011,4.168,False,Sales
+James,Male,06/27/2010,05:10 AM,105071,9.486,False,Human Resources
+Gregory,Male,02/18/2018,01:42 PM,88573,16.182,False,Marketing
+Rachel,Other,03/12/2014,18:26 AM,135451,5.873,False,Distribution
+Brenda,Female,06/08/2017,05:19 PM,131491,10.122,False,Product
+Rebecca,Other,12/24/2011,14:39 AM,70859,8.348,True,Finance
+William,Male,12/11/2015,12:45 PM,107671,16.062,True,Client Services
+Jack,Male,08/05/2015,03:23 AM,44565,10.52,True,Finance
+Paul,Male,07/30/2012,16:55 AM,47616,4.603,False,Sales
+Daniel,Female,11/17/2013,10:59 PM,91689,11.044,True,Marketing
+Richard,Male,05/28/2018,08:46 PM,52048,19.838,False,Engineering
+Patricia,Female,10/25/2015,10:20 PM,125876,18.175,False,Product
+Amy,Other,04/19/2018,09:34 AM,59679,19.003,True,Legal
+Carol,Male,11/15/2013,09:14 PM,130565,14.065,True,Marketing
+Sandra,Other,07/28/2016,19:44 AM,77604,2.616,True,Distribution
+Daniel,Other,12/05/2016,09:52 AM,86211,12.454,True,Sales
+Brian,Male,12/31/2020,03:50 PM,145929,9.745,True,Human Resources
+Ruth,Female,07/29/2017,07:55 PM,147878,15.842,True,Client Services
+Katherine,Female,12/23/2012,19:02 AM,41397,3.009,True,Engineering
+Steven,Other,07/12/2017,02:18 PM,112779,10.817,False,Marketing
+Steven,Other,01/02/2013,03:57 AM,159625,4.169,False,Finance
+Rebecca,Male,08/29/2022,05:16 AM,43105,14.781,False,Marketing
+Susan,Female,11/01/2012,14:56 PM,65131,3.039,True,Business Development
+Anthony,Female,03/04/2021,01:59 PM,102522,9.37,True,Finance
+Michelle,Male,07/29/2020,20:35 PM,142852,9.796,False,Finance
+Michelle,Female,06/03/2016,05:47 PM,141607,5.991,True,Business Development
+Rachel,Other,02/24/2011,02:03 AM,103144,13.792,True,Client Services
+Elizabeth,Male,08/27/2019,18:16 AM,137495,11.103,True,Sales
+Helen,Female,05/29/2021,15:41 PM,148267,18.388,False,Sales
+Janet,Female,03/22/2018,22:49 PM,91070,4.9,False,Legal
+Sarah,Other,01/28/2016,13:12 AM,101062,8.427,True,Marketing
+Nancy,Female,10/27/2011,15:34 PM,149913,15.269,False,Engineering
+Kenneth,Other,01/27/2014,06:43 PM,135957,2.145,False,Product
+Stephanie,Female,02/14/2021,18:50 AM,103121,3.583,False,Marketing
+Dennis,Male,05/10/2023,09:23 AM,140300,5.703,False,Client Services
+Susan,Male,01/05/2020,17:20 AM,65020,17.543,False,Distribution
+Charles,Male,10/27/2020,04:14 PM,95269,14.037,False,Marketing
+Samantha,Other,12/09/2012,23:17 PM,123109,17.304,False,Business Development
+Brandon,Other,08/10/2021,19:08 AM,95619,5.135,False,Distribution
+Debra,Female,06/20/2022,20:17 AM,88302,2.892,True,Legal
+Christine,Female,04/08/2020,04:12 AM,136837,2.54,True,
+Steven,Male,03/03/2014,17:03 PM,108288,17.331,False,Business Development  
